@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voting Pro</string>
+    <string name="voting_category">Voting Category</string>
+    <string name="button_login">Login</string>
+    <string name="et_enter_your_name">Enter Your Name</string>
+    <string name="et_enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="et_enter_your_email_id">Enter Your Email Id</string>
+</resources>
