@@ -106,8 +106,8 @@ public class CategoryList_Activity extends AppCompatActivity implements Recycler
 
                 local.setId("0");
                 local.setName("Previn");
-                local.setStatus("Loyer");
-                local.setSubject("Low");
+                local.setStatus("Lawyer");
+                local.setSubject("Role");
                 local.setLike_Voting("1723");
                 local.setNeutral_Voting("460");
                 local.setDislike_Voting("566");
@@ -129,7 +129,7 @@ public class CategoryList_Activity extends AppCompatActivity implements Recycler
 
                 entertainment.setId("1");
                 entertainment.setName("Nana pateker");
-                entertainment.setStatus("Carekter");
+                entertainment.setStatus("Hero");
                 entertainment.setSubject("Social");
                 entertainment.setLike_Voting("3123");
                 entertainment.setNeutral_Voting("160");
@@ -151,7 +151,7 @@ public class CategoryList_Activity extends AppCompatActivity implements Recycler
                 politician = new Political_Category();
 
                 politician.setId("2");
-                politician.setName("Yogesh");
+                politician.setName("Amit Shaha");
                 politician.setStatus("Home Minister");
                 politician.setSubject("Handicap");
                 politician.setLike_Voting("1123");
@@ -174,8 +174,8 @@ public class CategoryList_Activity extends AppCompatActivity implements Recycler
                 social = new Social_Category();
 
                 social.setId("3");
-                social.setName("Rakesh");
-                social.setStatus("Minister");
+                social.setName("Udhau Thakere");
+                social.setStatus("Chip Minister");
                 social.setSubject("Lows and oder");
                 social.setLike_Voting("2830");
                 social.setNeutral_Voting("60");
