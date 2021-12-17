@@ -99,8 +99,9 @@ public class VotingBallot_Activity extends AppCompatActivity {
 
         if (isViewEmpty())
         {
-            submitVote.putBoolean(votingSubject, true);
 
+            submitVote.putBoolean(votingSubject, true);
+            
             submitVote.commit();
 
             startActivity(new Intent(getApplicationContext(), CategoryList_Activity.class));

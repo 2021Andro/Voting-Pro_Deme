@@ -87,10 +87,6 @@ public class CategoryList_Activity extends AppCompatActivity implements Recycler
             }
         }
 
-
-
-
-
     }
 
     @Override
